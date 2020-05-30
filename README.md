@@ -16,3 +16,5 @@ To enhance the speed at which words in a provided text could be spell checked ag
 3. size returns the number of nodes/words added through increasing at each iteration of the while loop contained within the load function.
 4. the load function checks each node against each word in the hash table with the corrosponding index to return true if it is present.
 5. unload frees all of the data contained within the hash table by iterating through the hash table.
+
+Note* There are additional file ommited from this repository which are the dicitionaries and sample texts, additionally there is a makefile which compiles the speller and dicitonary files.
